@@ -3,7 +3,7 @@
 This repository contains my self-introduction video submitted for the PLA1006 course as part of Internal Assessment 1.
 
 ## Student Information
-- **Name:** Naren
+- **Name:** Narendren
 - **Institution:** VIT Bhopal University
 - **Program:** Integrated M.Tech
 - **Course Code:** PLA1006
